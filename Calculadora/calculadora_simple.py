@@ -59,9 +59,3 @@ while True:
     else:
         print("Ingresa un valor valido")
         print("Intenta de nuevo ")
-
-
-
-
-
-
